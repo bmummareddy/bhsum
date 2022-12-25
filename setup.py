@@ -1,5 +1,6 @@
 import sys
 from setuptools import setup, find_packages
+from setuptools.command.install import install
 
 PACKAGE_NAME = 'bhsum'
 VERSION = "1.1"
