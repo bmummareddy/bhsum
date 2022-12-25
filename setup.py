@@ -41,3 +41,4 @@ setup(
     ],
 )
 
+print ("finished!")
