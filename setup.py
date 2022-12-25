@@ -1,7 +1,7 @@
 import sys
 from setuptools import setup, find_packages
-import sum.sum
-PACKAGE_NAME = 'bhasum'
+
+PACKAGE_NAME = 'sum'
 VERSION = "1.1"
 DESCRIPTION = "returns sum"
 KEYWORDS = "addition"
