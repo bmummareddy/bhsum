@@ -5,7 +5,7 @@ PACKAGE_NAME = 'bhsum'
 VERSION = "1.1"
 DESCRIPTION = "returns sum"
 KEYWORDS = "addition"
-URL = 'https://github.com/bmummareddy/sum'
+URL = 'https://github.com/bmummareddy/bhsum'
 AUTHOR = 'Bhargavi'
 LICENSE = 'Eg'
 REQUIRES_PYTHON = '>=3.7.0'
