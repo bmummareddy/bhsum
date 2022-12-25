@@ -14,8 +14,6 @@ EXTRAS = {}
 with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
-with open("requirements.txt", "r") as f:
-    requirements = [line.strip() for line in f.readlines()]
 
 setup(
     name=PACKAGE_NAME,
@@ -26,10 +24,8 @@ setup(
     keywords=KEYWORDS,
     license=LICENSE,
     author=AUTHOR,
-    python_requires=REQUIRES_PYTHON,
     url=URL,
     packages=find_packages(include=f"{PACKAGE_NAME}.*"),
-    install_requires=requirements,
     extras_require=EXTRAS,
     include_package_data=True,
     classifiers=[
