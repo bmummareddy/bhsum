@@ -1,1 +1,1 @@
-from sum import sum
+from bhsum import bhsum
