@@ -1,2 +1,2 @@
-def sum(a,b):
+def bhsum(a,b):
 	return a+b
