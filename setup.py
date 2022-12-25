@@ -32,8 +32,6 @@ setup(
         "Intended Audience :: Developers",
         "Intended Audience :: Education",
         "Intended Audience :: Science/Research",
-        "License :: OSI Approved :: MIT License",
-        "Operating System :: OS Independent",
         "Topic :: Addition: Example package",
         'Programming Language :: Python',
         'Programming Language :: Python :: 3',
